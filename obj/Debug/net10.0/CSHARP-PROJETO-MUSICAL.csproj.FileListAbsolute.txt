@@ -1,0 +1,14 @@
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\bin\Debug\net10.0\CSHARP-PROJETO-MUSICAL.exe
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\bin\Debug\net10.0\CSHARP-PROJETO-MUSICAL.deps.json
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\bin\Debug\net10.0\CSHARP-PROJETO-MUSICAL.runtimeconfig.json
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\bin\Debug\net10.0\CSHARP-PROJETO-MUSICAL.dll
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\bin\Debug\net10.0\CSHARP-PROJETO-MUSICAL.pdb
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.AssemblyInfoInputs.cache
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.AssemblyInfo.cs
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.dll
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\refint\CSHARP-PROJETO-MUSICAL.dll
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.pdb
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\CSHARP-PROJETO-MUSICAL.genruntimeconfig.cache
+C:\Users\danda\Desktop\CSHARP-PROJETO-MUSICAL\obj\Debug\net10.0\ref\CSHARP-PROJETO-MUSICAL.dll
